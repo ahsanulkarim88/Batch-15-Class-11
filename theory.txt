@@ -1,0 +1,12 @@
+
+
+
+================= Media Query ================
+
+@media screen and (width:1000px){
+
+    .testclass{
+        jhkjkjkjkjkjkj
+    }
+}
+
